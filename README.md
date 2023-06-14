@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat Lieu Minh</h1>
-<h3 align="center">Information Security Student - Honor Program</h3>
+<h3 align="center">Information Security - Honor Program</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keitherrrr&label=Profile%20views&color=0e75b6&style=flat" alt="keitherrrr" /> </p>
 
